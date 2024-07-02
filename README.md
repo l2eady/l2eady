@@ -5,7 +5,7 @@ My name is Puttapong (Ma), welcome to my GitHub profile!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2024 - To: 29 June 2024
+From: 25 March 2024 - To: 30 June 2024
 
 Total Time: 283 hrs 1 min
 
