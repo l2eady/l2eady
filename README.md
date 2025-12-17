@@ -5,14 +5,14 @@ My name is Puttapong (Ma), welcome to my GitHub profile!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2024 - To: 14 December 2025
+From: 25 March 2024 - To: 15 December 2025
 
-Total Time: 1,585 hrs 51 mins
+Total Time: 1,591 hrs 5 mins
 
-Go                   977 hrs 36 mins ███████████████▒░░░░░░░░░   61.64 %
-Kotlin               163 hrs 20 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-HTTP Request         124 hrs 56 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-SQL                  60 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Go                   980 hrs 17 mins ███████████████▒░░░░░░░░░   61.61 %
+Kotlin               163 hrs 52 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+HTTP Request         125 hrs 27 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+SQL                  60 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
